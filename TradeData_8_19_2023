@@ -1,0 +1,527 @@
+{
+    "Trade Statistics": [
+        "First Fill",
+        "Last Fill",
+        "Daily Date"
+    ],
+    "All Symbols (Non-Sim)": [
+        "Num Fills Filtered: 0",
+        "2023-08-14  07:30:10",
+        "2023-08-18  09:13:01",
+        "2023-08-18"
+    ],
+    "All Accounts": [],
+    "Currency Value (C)": [],
+    "All Trades": [
+        "Long Trades",
+        "Short Trades",
+        "Daily Trades"
+    ],
+    "Closed Trades Profit/Loss": [
+        "2207",
+        "2207",
+        "0",
+        "294"
+    ],
+    "Closed Trades Total Profit": [
+        "4387",
+        "4387",
+        "0",
+        "323"
+    ],
+    "Closed Trades Total Loss": [
+        "-2179",
+        "-2179",
+        "0",
+        "-29"
+    ],
+    "Profit Factor": [
+        "2.01",
+        "2.01",
+        "0.00",
+        "11.16"
+    ],
+    "Equity Peak": [
+        "2207",
+        "2207",
+        "0",
+        "294"
+    ],
+    "Equity Valley": [
+        "428",
+        "428",
+        "0",
+        "-11"
+    ],
+    "Maximum Runup": [
+        "1779",
+        "1779",
+        "0",
+        "305"
+    ],
+    "Maximum Drawdown": [
+        "-792",
+        "-792",
+        "0",
+        "-29"
+    ],
+    "Maximum FlatToFlat Trade Open Profit": [
+        "169",
+        "169",
+        "0",
+        "72"
+    ],
+    "Maximum FlatToFlat Trade Open Loss": [
+        "-207",
+        "-207",
+        "0",
+        "-105"
+    ],
+    "Average Trade Open Profit": [
+        "21",
+        "21",
+        "0",
+        "26"
+    ],
+    "Average Trade Open Loss": [
+        "-19",
+        "-19",
+        "0",
+        "-36"
+    ],
+    "Average Winning Trade Open Profit": [
+        "27",
+        "27",
+        "0",
+        "35"
+    ],
+    "Average Winning Trade Open Loss": [
+        "-12",
+        "-12",
+        "0",
+        "-13"
+    ],
+    "Average Losing Trade Open Profit": [
+        "10",
+        "10",
+        "0",
+        "0"
+    ],
+    "Average Losing Trade Open Loss": [
+        "-37",
+        "-37",
+        "0",
+        "-105"
+    ],
+    "Maximum Trade Open Profit": [
+        "64",
+        "64",
+        "0",
+        "38"
+    ],
+    "Maximum Trade Open Loss": [
+        "-105",
+        "-105",
+        "0",
+        "-105"
+    ],
+    "Highest Price During Positions": [
+        "0.00",
+        "0.00",
+        "0.00",
+        "0.00"
+    ],
+    "Lowest Price During Positions": [
+        "0.00",
+        "0.00",
+        "0.00",
+        "0.00"
+    ],
+    "Total Commissions": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "Total Trades": [
+        "318",
+        "318",
+        "0",
+        "20"
+    ],
+    "Total FlatToFlat Trades": [
+        "115",
+        "115",
+        "0",
+        "10"
+    ],
+    "Total Filled Quantity": [
+        "780",
+        "780",
+        "0",
+        "60"
+    ],
+    "Total Buys x Sells": [
+        "390 x 390",
+        "390 x 390",
+        "0 x 0",
+        "30 x 30"
+    ],
+    "Percent Profitable": [
+        "68.87%",
+        "68.87%",
+        "0.00%",
+        "75.00%"
+    ],
+    "FlatToFlat Percent Profitable": [
+        "78.26%",
+        "78.26%",
+        "0.00%",
+        "100.00%"
+    ],
+    "Winning Trades": [
+        "219",
+        "219",
+        "0",
+        "15"
+    ],
+    "Winning FlatToFlat Trades": [
+        "90",
+        "90",
+        "0",
+        "10"
+    ],
+    "Losing Trades": [
+        "99",
+        "99",
+        "0",
+        "5"
+    ],
+    "Losing FlatToFlat Trades": [
+        "25",
+        "25",
+        "0",
+        "0"
+    ],
+    "Long Trades": [
+        "318",
+        "318",
+        "0",
+        "20"
+    ],
+    "Long FlatToFlat Trades": [
+        "115",
+        "115",
+        "0",
+        "10"
+    ],
+    "Short Trades": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "Short FlatToFlat Trades": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "Average Trade Profit/Loss": [
+        "7",
+        "7",
+        "0",
+        "15"
+    ],
+    "Average FlatToFlat Trade Profit/Loss": [
+        "19",
+        "19",
+        "0",
+        "29"
+    ],
+    "Average Winning Trade": [
+        "20",
+        "20",
+        "0",
+        "22"
+    ],
+    "Average FlatToFlat Winning Trade": [
+        "41",
+        "41",
+        "0",
+        "29"
+    ],
+    "Average Losing Trade": [
+        "-22",
+        "-22",
+        "0",
+        "-6"
+    ],
+    "Average FlatToFlat Losing Trade": [
+        "-61",
+        "-61",
+        "0",
+        "0"
+    ],
+    "Average Profit Factor": [
+        "0.91",
+        "0.91",
+        "0.00",
+        "3.72"
+    ],
+    "Average FlatToFlat Profit Factor": [
+        "0.68",
+        "0.68",
+        "0.00",
+        "0.00"
+    ],
+    "Largest Winning Trade": [
+        "61",
+        "61",
+        "0",
+        "31"
+    ],
+    "Largest FlatToFlat Winning Trade": [
+        "155",
+        "155",
+        "0",
+        "55"
+    ],
+    "Largest Losing Trade": [
+        "-75",
+        "-75",
+        "0",
+        "-6"
+    ],
+    "Largest FlatToFlat Losing Trade": [
+        "-158",
+        "-158",
+        "0",
+        "0"
+    ],
+    "Largest Winner % of Profit": [
+        "1.39%",
+        "1.39%",
+        "0.00%",
+        "9.58%"
+    ],
+    "Largest FlatToFlat Winner % of Profit": [
+        "4.16%",
+        "4.16%",
+        "0.00%",
+        "18.85%"
+    ],
+    "Largest Loser % of Loss": [
+        "3.44%",
+        "3.44%",
+        "0.00%",
+        "20.69%"
+    ],
+    "Largest FlatToFlat Loser % of Loss": [
+        "10.45%",
+        "10.45%",
+        "0.00%",
+        "0.00%"
+    ],
+    "Max Consecutive Winners": [
+        "40",
+        "40",
+        "0",
+        "10"
+    ],
+    "Max Consecutive Losers": [
+        "29",
+        "29",
+        "0",
+        "5"
+    ],
+    "Average Time In Trades": [
+        "3:00",
+        "3:00",
+        "0:00",
+        "3:26"
+    ],
+    "Average Time In Winning Trades": [
+        "2:45",
+        "2:45",
+        "0:00",
+        "2:58"
+    ],
+    "Average Time In Losing Trades": [
+        "3:31",
+        "3:31",
+        "0:00",
+        "4:52"
+    ],
+    "Longest Held Winning Trade": [
+        "13:28",
+        "13:28",
+        "0:00",
+        "4:20"
+    ],
+    "Longest Held Losing Trade": [
+        "9:51",
+        "9:51",
+        "0:00",
+        "4:52"
+    ],
+    "Total Quantity": [
+        "390",
+        "390",
+        "0",
+        "30"
+    ],
+    "Winning Quantity": [
+        "255",
+        "255",
+        "0",
+        "20"
+    ],
+    "Losing Quantity": [
+        "135",
+        "135",
+        "0",
+        "10"
+    ],
+    "Avg Quantity Per Trade": [
+        "1.23",
+        "1.23",
+        "0.00",
+        "1.50"
+    ],
+    "Avg Quantity Per FlatToFlat Trade": [
+        "3.39",
+        "3.39",
+        "0.00",
+        "3.00"
+    ],
+    "Avg Quantity Per Winning Trade": [
+        "1.16",
+        "1.16",
+        "0.00",
+        "1.33"
+    ],
+    "Avg Quantity Per FlatToFlat Winning Trade": [
+        "3.56",
+        "3.56",
+        "0.00",
+        "3.00"
+    ],
+    "Avg Quantity Per Losing Trade": [
+        "1.36",
+        "1.36",
+        "0.00",
+        "2.00"
+    ],
+    "Avg Quantity Per FlatToFlat Losing Trade": [
+        "2.80",
+        "2.80",
+        "0.00",
+        "0.00"
+    ],
+    "Largest Trade Quantity": [
+        "2",
+        "2",
+        "0",
+        "2"
+    ],
+    "Largest FlatToFlat Trade Quantity": [
+        "10",
+        "10",
+        "0",
+        "4"
+    ],
+    "Maximum Open Position Quantity": [
+        "7",
+        "7",
+        "0",
+        "4"
+    ],
+    "Last Trade Profit / Loss": [
+        "30",
+        "30",
+        "0",
+        "30"
+    ],
+    "Last FlatToFlat Trade Profit / Loss": [
+        "55",
+        "55",
+        "0",
+        "55"
+    ],
+    "Expectancy": [
+        "19.20",
+        "0.00",
+        "0.00",
+        "0.00"
+    ],
+    "Number of Open Trades": [
+        "0"
+    ],
+    "Open Trades: Open Quantity": [
+        "0"
+    ],
+    "Open Trades: Average Entry Price": [
+        "0.00"
+    ],
+    "Consecutive Winners": [
+        "Frequency",
+        "Average Profit/Loss",
+        "Avg Next Trade"
+    ],
+    "5 Winners": [
+        "1",
+        "10",
+        "-5"
+    ],
+    "20 Winners": [
+        "1",
+        "700",
+        "-19"
+    ],
+    "25 Winners": [
+        "3",
+        "355",
+        "-3"
+    ],
+    "30 Winners": [
+        "1",
+        "262",
+        "-6"
+    ],
+    "39 Winners": [
+        "1",
+        "677",
+        "-5"
+    ],
+    "40 Winners": [
+        "1",
+        "1367",
+        "-41"
+    ],
+    "Consecutive Losers": [
+        "Frequency",
+        "Average Profit/Loss",
+        "Avg Next Trade"
+    ],
+    "5 Losers": [
+        "6",
+        "-82",
+        "20"
+    ],
+    "15 Losers": [
+        "1",
+        "-792",
+        "61"
+    ],
+    "25 Losers": [
+        "1",
+        "-368",
+        "20"
+    ],
+    "29 Losers": [
+        "1",
+        "-529",
+        "12"
+    ]
+}
